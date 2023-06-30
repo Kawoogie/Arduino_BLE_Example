@@ -1,4 +1,4 @@
-y/*
+/*
   BLE_Peripheral.ino
 
   This program uses the ArduinoBLE library to set-up an Arduino Nano 33 BLE 
